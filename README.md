@@ -4,6 +4,9 @@
 [![GitHub release](https://img.shields.io/github/v/release/tuna/thuthesis)](https://github.com/tuna/thuthesis/releases/latest)
 [![CTAN](https://img.shields.io/ctan/v/thuthesis)](https://www.ctan.org/pkg/thuthesis)
 
+# Note from Fran
+This is the template I used to build my MSc Thesis at Tsinghua University. 
+It is based in the Tsinghua ThuThesis template, so the rest of this REAMDME.md described the instructions to use it for building the final PDF.
 
 # ThuThesis
 
