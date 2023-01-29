@@ -7,7 +7,7 @@
 # Note from Fran
 This is the template I used to build my MSc Thesis at Tsinghua University. 
 
-It is based in the Tsinghua ThuThesis template, so the rest of this REAMDME.md describes the instructions to use it for building the final PDF.
+It is branched from the official Tsinghua ThuThesis template, so the rest of this REAMDME.md describes the instructions to use it for building the final PDF.
 
 # ThuThesis
 
